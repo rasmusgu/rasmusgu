@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rasmusgu
-- 👀 I’m interested in Linux and coding
+- 👀 I’m interested in Linux, nvim, coding
 <!---
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
