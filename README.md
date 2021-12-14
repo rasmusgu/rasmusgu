@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @rasmusgu
-- 👀 I’m interested in Linux, coding, nvim
+- 👀 I’m interested in Linux, coding, neovim
+- 🌱 I’m currently learning: 
+  - Python
+  - Rust
 <!---
-- 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
